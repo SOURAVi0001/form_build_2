@@ -20,7 +20,7 @@ npm install -g pnpm
 Clone the project
 
 ```bash
-git clone https://github.com/RohanShrestha01/form-builder.git
+[git clone https://github.com/RohanShrestha01/form-builder.git](https://github.com/SOURAVi0001/form_build_2.git)
 ```
 
 then navigate into the project
