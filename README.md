@@ -8,7 +8,7 @@ https://easyformbuilder.netlify.app/
 
 (Profile picture upload only works in local development as costs money in deployed server.)
 
-![Screenshot of form builder website](https://github.com/RohanShrestha01/form-builder/assets/70142301/a4273f13-1842-46cb-aef6-b04244c8f46e)
+![Screenshot of form builder website]([https://github.com/RohanShrestha01/form-builder/assets/70142301/a4273f13-1842-46cb-aef6-b04244c8f46e](https://github.com/SOURAVi0001/form_build_2.git))
 
 ## Installation
 You need to install [pnpm](https://pnpm.io/installation) first as pnpm workspace is used for this monorepo.
